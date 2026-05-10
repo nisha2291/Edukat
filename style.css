@@ -1,0 +1,15 @@
+:root{
+    --bs-base: #08AA25;
+}
+
+.text-base{
+    color: var(--bs-base);
+}
+
+.bg-base{
+    background-color: var(--bs-base);
+}
+
+.border-base{
+    border-color: var(--bs-base);
+}
